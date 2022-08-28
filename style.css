@@ -5,21 +5,14 @@
   justify-content: space-between;
 }
 
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
 .header-logo {
   color: #f9faf8;
   font-size: 24px;
 }
 
-.header-links {
-  color: #e5e7eb;
-  font-size: 18px;
-  margin: 20px;
-  display: flex;
-  justify-content: space-evenly;
-}
 
-.header-links-one,
-.header-links-two,
-.header-links-three {
-
-}
