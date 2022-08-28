@@ -1,3 +1,5 @@
-div {
-    color: red;
+.header-container {
+    background-color: #1F2937;
+    height: 400px;
+    display: flex;
 }
