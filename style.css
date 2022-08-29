@@ -16,6 +16,7 @@
 }
 
 .header-links {
+  color: #f9faf8;
   display: flex;
   justify-content: space-evenly;
 }
