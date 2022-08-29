@@ -1,3 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* Include padding and border in element's total width/height */
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .header-container {
   background-color: #1f2937;
   height: 400px;
