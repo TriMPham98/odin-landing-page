@@ -13,7 +13,7 @@
   align-items: center;
 }
 
-.header-item {
+.header {
   color: #f9faf8;
   font-size: 24px;
   font-weight: bold;
@@ -30,4 +30,13 @@
 .hero-container {
   background-color: #1f2937;
   height: 400px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.hero {
+  color: #f9faf8;
+  font-size: 48px;
+  border: 5px;
 }
