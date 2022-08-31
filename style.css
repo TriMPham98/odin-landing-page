@@ -68,8 +68,11 @@
   height: 450px;
   display: flex;
   justify-content: space-evenly;
+  align-items: center;
 }
 
-.content {
-  
+.title {
+  color: #1f2937;
+  font-size: 36px;
+  font-weight: bolder;
 }
