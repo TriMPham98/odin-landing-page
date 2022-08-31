@@ -20,7 +20,7 @@
   display: flex;
 }
 
-.header .links {
+.links {
   color: #e5e7eb;
   font-size: 18px;
   font-weight: 100;
@@ -68,4 +68,8 @@
   height: 450px;
   display: flex;
   justify-content: space-evenly;
+}
+
+.content {
+  
 }
