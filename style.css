@@ -27,15 +27,7 @@
   margin: 15px;
 }
 
-/* .header-logo {
-  background-color: pink;
-  color: #f9faf8;
-  font-size: 24px;
-} */
-
-/* .header-links {
-  background-color: plum;
-  color: #f9faf8;
-  display: flex;
-  justify-content: space-evenly;
-} */
+.hero-container {
+  background-color: #1f2937;
+  height: 400px;
+}
