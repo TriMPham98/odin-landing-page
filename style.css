@@ -38,7 +38,7 @@
 .hero {
   display: flex;
   border: 5px;
-  flex-direction: column;
+  flex-direction: column; /* Main: Vertical, Cross: Horizontal */
   width: 450px;
 }
 
@@ -51,4 +51,11 @@
 .hero-subtitle {
   color: #e5e7eb;
   font-size: 18px;
+}
+
+.hero-button {
+  color: #f9f9f9;
+  background-color: #3882f6;
+  width: 150px;
+  padding: 10px;
 }
