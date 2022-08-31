@@ -36,7 +36,19 @@
 }
 
 .hero {
-  color: #f9faf8;
-  font-size: 48px;
+  display: flex;
   border: 5px;
+  flex-direction: column;
+  width: 450px;
+}
+
+.hero-title {
+  color: #f9f9f9;
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.hero-subtitle {
+  color: #e5e7eb;
+  font-size: 18px;
 }
