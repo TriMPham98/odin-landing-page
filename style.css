@@ -37,7 +37,6 @@
 
 .hero {
   display: flex;
-  border: 5px;
   flex-direction: column; /* Main: Vertical, Cross: Horizontal */
   width: 450px;
   gap: 15px; /* Adds gap between items */
