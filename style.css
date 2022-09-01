@@ -70,8 +70,20 @@
   align-items: center;
 }
 
+.content {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+
 .title {
   color: #1f2937;
   font-size: 36px;
   font-weight: bolder;
+}
+
+.image-subtitle {
+  color: #1f2937;
+  font-size: 18px;
+  text-align: center;
 }
