@@ -93,3 +93,8 @@
   text-align: center;
   width: 275px;
 }
+
+.quote-container {
+  background-color: #e5e7eb;
+  height: 400px;
+}
