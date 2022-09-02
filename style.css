@@ -119,6 +119,18 @@
   background-color: #3882f6;
   width: 950px;
   height: 125px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 8px;
+}
+
+.call-to-action-button {
+  color: #f9faf8;
+  background-color: #3882f6;
+  width: 150px;
+  padding: 10px;
+  border-color: white;
   border-radius: 8px;
 }
 
