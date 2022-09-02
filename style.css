@@ -15,7 +15,7 @@
 
 .header {
   color: #f9faf8;
-  font-size: 24px;
+  font-size: 32px;
   font-weight: bold;
   display: flex;
 }
@@ -97,7 +97,11 @@
   width: 275px;
 }
 
-.quote-container {
+.tweet-container {
   background-color: #e5e7eb;
-  height: 400px;
+  height: 600px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }
