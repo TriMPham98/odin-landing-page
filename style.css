@@ -125,6 +125,12 @@
   border-radius: 8px;
 }
 
+.call-to-action-text {
+  color: #f9faf8;
+  display: flex;
+  flex-direction: column;
+}
+
 .call-to-action-button {
   color: #f9faf8;
   background-color: #3882f6;
