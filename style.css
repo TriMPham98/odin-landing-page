@@ -105,3 +105,13 @@
   justify-content: center;
   align-items: center;
 }
+
+.call-to-action-container {
+  background-color: white;
+  height: 300px;
+}
+
+.footer-container {
+  background-color: #1f2937;
+  height: 125px;
+}
