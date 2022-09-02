@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box; /* Include padding and border in element's total width/height */
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 }
 
 .header-container {
