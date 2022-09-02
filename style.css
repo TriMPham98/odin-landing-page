@@ -84,11 +84,12 @@
 }
 
 .image {
-  width: 250px;
+  width: 275px;
 }
 
 .image-subtitle {
   color: #1f2937;
   font-size: 18px;
   text-align: center;
+  width: 275px;
 }
