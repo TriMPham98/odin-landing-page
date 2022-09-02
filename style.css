@@ -109,11 +109,21 @@
 .call-to-action-container {
   background-color: white;
   height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.call-to-action {
+  background-color: #3882f6;
+  width: 950px;
+  height: 125px;
+  border-radius: 8px;
 }
 
 .footer-container {
   background-color: #1f2937;
-  height: 125px;
+  height: 100px;
   display: flex;
   justify-content: center;
   align-items: center;
