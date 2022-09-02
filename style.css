@@ -83,6 +83,10 @@
   font-weight: bolder;
 }
 
+.image {
+  width: 250px;
+}
+
 .image-subtitle {
   color: #1f2937;
   font-size: 18px;
