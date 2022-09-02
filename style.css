@@ -38,7 +38,7 @@
 .hero {
   display: flex;
   flex-direction: column; /* Main: Vertical, Cross: Horizontal */
-  width: 450px;
+  width: 550px;
   gap: 25px; /* Adds gap between items */
 }
 
@@ -51,6 +51,7 @@
 .hero-subtitle {
   color: #e5e7eb;
   font-size: 18px;
+  width: 350px;
 }
 
 .hero-button {
