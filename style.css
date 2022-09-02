@@ -114,4 +114,11 @@
 .footer-container {
   background-color: #1f2937;
   height: 125px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-content {
+  color: #e5e7eb;
 }
