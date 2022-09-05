@@ -20,6 +20,8 @@
   font-weight: bold;
   display: flex;
   gap: 50px;
+  position: relative;
+  z-index: 1;
 }
 
 .links {
