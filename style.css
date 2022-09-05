@@ -19,13 +19,19 @@
   font-size: 32px;
   font-weight: bold;
   display: flex;
+  gap: 50px;
 }
 
 .links {
   color: #e5e7eb;
   font-size: 18px;
   font-weight: 100;
-  margin: 15px;
+  /* Increases area of a text link */
+  display: inline-block;     
+  position: relative;    
+  z-index: 1;     
+  padding: 2em;     
+  margin: -2em;
 }
 
 .hero-container {
