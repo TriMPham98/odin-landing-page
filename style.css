@@ -36,7 +36,7 @@
 
 .hero-container {
   background-color: #1f2937;
-  height: 550px;
+  height: 350px;
   display: flex;
   justify-content: space-evenly;
   align-items: center;
@@ -49,6 +49,12 @@
   width: 550px;
   gap: 25px; /* Adds gap between items */
   align-items: center;
+}
+
+.hero-video {
+  display: flex;
+  width: 100%;
+  margin-top: -100px;
 }
 
 .hero-title {
