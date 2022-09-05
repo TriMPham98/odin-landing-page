@@ -35,7 +35,7 @@
   padding: 2em;
   margin: -2em;
   /* Transition quickness */
-  transition: transform 250ms;
+  transition: 250ms;
 }
 
 .links:hover {
@@ -44,6 +44,7 @@
 }
 
 .preorder:hover {
+  transition: 500ms;
   font-weight: bold;
 }
 
