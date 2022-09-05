@@ -24,7 +24,8 @@
   z-index: 1;
 }
 
-.links, .preorder {
+.links,
+.preorder {
   color: #e5e7eb;
   font-size: 18px;
   font-weight: 100;
@@ -35,11 +36,12 @@
   z-index: 1;
   padding: 2em;
   margin: -2em;
-  /* Transition quickness */
-  transition: 250ms;
 }
 
-.links:hover {
+.links:hover,
+.image-subtitle:hover {
+  /* Transition quickness */
+  transition: 250ms;
   /* Move link up 4 pixels on hover */
   transform: translateY(-4px);
 }
