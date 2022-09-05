@@ -24,7 +24,7 @@
   z-index: 1;
 }
 
-.links {
+.links, .preorder {
   color: #e5e7eb;
   font-size: 18px;
   font-weight: 100;
@@ -34,6 +34,11 @@
   z-index: 1;
   padding: 2em;
   margin: -2em;
+  transition: transform 250ms;
+}
+
+.links:hover {
+  transform: translateY(-3px);
 }
 
 .hero-container {
