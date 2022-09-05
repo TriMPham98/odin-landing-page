@@ -6,7 +6,7 @@
 }
 
 .header-container {
-  background-color: #1f2937;
+  background-color: black;
   height: 100px;
   display: flex;
   justify-content: space-around;
@@ -28,6 +28,7 @@
   color: #e5e7eb;
   font-size: 18px;
   font-weight: 100;
+  text-align: center;
   /* Increases area of a text link */
   display: inline-block;
   position: relative;
@@ -55,7 +56,6 @@
   justify-content: space-evenly;
   align-items: center;
   flex-wrap: wrap;
-  margin-top: -150px;
 }
 
 .hero {
@@ -69,7 +69,6 @@
 .hero-video {
   display: flex;
   width: 100%;
-  margin-top: -100px;
 }
 
 .hero-title {
@@ -130,7 +129,7 @@
 
 .image {
   width: 275px;
-  border: 3px solid #3882f6;
+  border: 3px solid #1f2937;
   border-radius: 8px;
 }
 
@@ -161,7 +160,7 @@
 }
 
 .call-to-action {
-  background-color: #3882f6;
+  background-color: #1f2937;
   width: 950px;
   height: 125px;
   display: flex;
@@ -181,18 +180,18 @@
   background-color: #3882f6;
   width: 175px;
   padding: 10px;
-  border-color: #0ff;
+  border-color: white;
   border-radius: 8px;
   transition: all 0.5s ease-in-out;
 }
 
 .call-to-action-button-glow:hover {
   color: rgba(255, 255, 255, 1);
-  box-shadow: 0px 0px 15px 3px #fff; /*x offset, y offset, blur size, spread size */
+  box-shadow: 0px 0px 15px 3px #0ff; /*x offset, y offset, blur size, spread size */
 }
 
 .footer-container {
-  background-color: #1f2937;
+  background-color: black;
   height: 100px;
   display: flex;
   flex-direction: column;
