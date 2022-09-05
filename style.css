@@ -43,6 +43,10 @@
   transform: translateY(-4px);
 }
 
+.preorder:hover {
+  font-weight: bold;
+}
+
 .hero-container {
   background-color: black;
   height: 350px;
