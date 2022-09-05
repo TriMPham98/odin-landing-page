@@ -34,10 +34,12 @@
   z-index: 1;
   padding: 2em;
   margin: -2em;
+  /* Transition quickness */
   transition: transform 250ms;
 }
 
 .links:hover {
+  /* Move link up 4 pixels on hover */
   transform: translateY(-4px);
 }
 
