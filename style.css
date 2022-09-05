@@ -37,12 +37,13 @@
 }
 
 .hero-container {
-  background-color: #1f2937;
+  background-color: black;
   height: 350px;
   display: flex;
   justify-content: space-evenly;
   align-items: center;
   flex-wrap: wrap;
+  margin-top: -150px;
 }
 
 .hero {
