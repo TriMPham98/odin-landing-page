@@ -141,6 +141,11 @@
   border-radius: 8px;
 }
 
+.image:hover {
+  transition: 0.4s;
+  transform: scale(1.15);
+}
+
 .image-subtitle {
   color: #1f2937;
   font-size: 18px;
