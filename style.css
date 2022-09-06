@@ -5,6 +5,11 @@
   font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 }
 
+@font-face {
+  font-family: teslaFont;
+  src: url(TESLA.ttf);
+}
+
 .header-container {
   background-color: black;
   height: 100px;
@@ -15,6 +20,7 @@
 }
 
 .header {
+  font-family: teslaFont;
   color: #f9faf8;
   font-size: 32px;
   font-weight: bold;
