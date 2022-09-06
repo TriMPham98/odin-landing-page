@@ -21,6 +21,7 @@
 
 .header {
   font-family: teslaFont;
+  letter-spacing: 12px; /* Add whitespace between letters */
   color: #f9faf8;
   font-size: 32px;
   font-weight: bold;
@@ -35,6 +36,7 @@
   color: #e5e7eb;
   font-size: 18px;
   font-weight: 100;
+  letter-spacing: normal;
   text-align: center;
   /* Increases area of a text link */
   display: inline-block;
