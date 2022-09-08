@@ -145,7 +145,7 @@
 
 .image:hover {
   transition: 0.4s;
-  transform: scale(1.15);
+  transform: scale(1.10);
 }
 
 .image-subtitle {
